@@ -1,0 +1,2 @@
+# AirlineReservationSystem
+This project is aimed at developing an online Airline Reservation System (ARS) for customers. This is a web based application that can be accessed throughout the web. This system can be used to search flight details, reserve flight, and update/cancel any reservation. This is an integrated system that contains both the user component and the administration component. There are features like report generators etc in this system.
